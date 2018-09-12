@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using HTVP_HQT.Models;
 
 namespace HTVP_HQT.Areas.Admin.Controllers
 {
@@ -25,6 +26,27 @@ namespace HTVP_HQT.Areas.Admin.Controllers
         }
         // GET: Admin/Account
         public ActionResult Index()
+        {
+            ViewBag.Title = "Quản lý người dùng";
+            return View();
+        }
+        public ActionResult GetById(int id)
+        {
+            ViewBag.Title = "Người dùng";
+            return View();
+        }
+        public ActionResult Update(int id)
+        {
+            ViewBag.Title = "Người dùng";
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Update(NguoiDungModel model)
+        {
+            ViewBag.Title = "Người dùng";
+            return View();
+        }
+        public ActionResult Delete(int id)
         {
             return View();
         }

@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace HTVP_HQT.Areas.Admin.Controllers
 {
-    public class HomeController : Controller
+    public class XeController : Controller
     {
-        // GET: Admin/Home
+        // GET: Admin/Xe
         public ActionResult Index()
         {
-            ViewBag.title = "Trang Chủ";
+            ViewBag.title = "Quản lý xe";
             return View();
         }
     }
