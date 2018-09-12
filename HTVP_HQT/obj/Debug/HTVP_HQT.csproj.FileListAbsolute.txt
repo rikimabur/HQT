@@ -1,0 +1,186 @@
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\ApplicationInsights.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.dll.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.pdb
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.exe
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.exe.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.rsp
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.exe
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.exe.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.rsp
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.AppContext.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Console.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.exe
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.exe.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.rsp
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Antlr3.Runtime.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Web.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Newtonsoft.Json.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Helpers.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Mvc.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Optimization.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Razor.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\WebGrease.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Helpers.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Mvc.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Optimization.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.Razor.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Newtonsoft.Json.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Antlr3.Runtime.pdb
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Web.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csprojAssemblyReference.cache
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csproj.CoreCompileInputs.cache
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csproj.CopyComplete
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.dll
+C:\Users\Phuoc\source\repos\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.pdb
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\ApplicationInsights.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.dll.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\HTVP_HQT.pdb
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.exe
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.exe.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csc.rsp
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.exe
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.exe.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\csi.rsp
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.AppContext.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Collections.Immutable.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Console.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.Process.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.Compression.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.IO.Pipes.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Reflection.Metadata.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.AccessControl.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Claims.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Threading.Thread.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.ValueTuple.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XPath.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.exe
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.exe.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\vbc.rsp
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\VBCSCompiler.exe
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\roslyn\VBCSCompiler.exe.config
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Antlr3.Runtime.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.DependencyCollector.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Web.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.WindowsServer.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.ApplicationInsights.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.Web.Infrastructure.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Newtonsoft.Json.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Diagnostics.DiagnosticSource.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Helpers.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Mvc.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Optimization.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Razor.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Deployment.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Razor.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\WebGrease.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Helpers.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Mvc.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Optimization.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.Razor.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Deployment.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Web.WebPages.Razor.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Newtonsoft.Json.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Antlr3.Runtime.pdb
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\System.Diagnostics.DiagnosticSource.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.DependencyCollector.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.WindowsServer.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.AI.Web.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csprojAssemblyReference.cache
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csproj.CoreCompileInputs.cache
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.csproj.CopyComplete
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.dll
+D:\HC_Phuoc_Con\Hệ quản trị cơ sở dữ liệu\HTVP_HQT\HTVP_HQT\obj\Debug\HTVP_HQT.pdb

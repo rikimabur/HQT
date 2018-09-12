@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTVP_HQT", "HTVP_HQT\HTVP_HQT.csproj", "{0FA8CB1A-75FA-4A8C-A33E-F1D7B046D2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA8CB1A-75FA-4A8C-A33E-F1D7B046D2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA8CB1A-75FA-4A8C-A33E-F1D7B046D2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA8CB1A-75FA-4A8C-A33E-F1D7B046D2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA8CB1A-75FA-4A8C-A33E-F1D7B046D2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35DE016-0EDA-4FC0-AFF7-248B405A4EAE}
+	EndGlobalSection
+EndGlobal
