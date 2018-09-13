@@ -393,7 +393,7 @@ END
 GO
 -- Table Tuyến xe (carriage-way)
 --- create carriage away
-CREATE PROC HTVP_CreateCarriageAway @TenTuyen nvarchar(30),
+CREATE PROC HTVP_CreateCarriageWay @TenTuyen nvarchar(30),
 @DiaDiemDi nvarchar(30),
 @DiaDiemDen nvarchar(30)
 AS
@@ -411,6 +411,92 @@ BEGIN TRY
   ELSE
   BEGIN
     PRINT N'Tuyễn Xe đã tồn tại trong hệ thống'
+  END
+  BEGIN TRAN
+  COMMIT
+END TRY
+BEGIN CATCH
+  ROLLBACK
+  SELECT
+    N'Lỗi Hệ thống ' + ERROR_MESSAGE() + ' - ' + CONVERT(varchar(30), ERROR_LINE()) AS InfoCarriageAway
+END CATCH
+GO
+-- GetAll carriage way
+CREATE PROC HTVP_GETAllCarriageWay
+AS
+BEGIN
+  SELECT
+    *
+  FROM TuyenXe
+END
+GO
+-- Get by id carriage way
+CREATE PROC HTVP_GETBYIDCarriageWay @IdTuyen int
+AS
+BEGIN TRY
+  BEGIN TRAN
+    SELECT
+      *
+    FROM TuyenXe
+    WHERE IdTuyen = @IdTuyen
+  COMMIT
+END TRY
+BEGIN CATCH
+  ROLLBACK
+  SELECT
+    N'Lỗi Hệ thống ' + ERROR_MESSAGE() + ' - ' + CONVERT(varchar(30), ERROR_LINE()) AS InfoCarriageAway
+END CATCH
+GO
+-- update carriage way
+create proc HTVP_UpdateCarriageWay
+@IdTuyen int,
+@TenTuyen nvarchar(50),
+@DiaDiemDi nvarchar(30),
+@DiaDiemDen nvarchar(30)
+AS
+BEGIN TRY
+  IF (SELECT
+      COUNT(1)
+    FROM TuyenXe
+    WHERE IdTuyen = @IdTuyen)
+    = 0
+  BEGIN
+    UPDATE TuyenXe
+    SEt TenTuyen = @TenTuyen, DiaDiemDen = @DiaDiemDen, DiaDiemDi = @DiaDiemDi
+	WHERE IdTuyen = @IdTuyen
+    PRINT N'Cập nhật thành công tuyến xe'
+  END
+  ELSE
+  BEGIN
+    PRINT N'Lỗi Hệ thống'
+  END
+  BEGIN TRAN
+  COMMIT
+END TRY
+BEGIN CATCH
+  ROLLBACK
+  SELECT
+    N'Lỗi Hệ thống ' + ERROR_MESSAGE() + ' - ' + CONVERT(varchar(30), ERROR_LINE()) AS InfoCarriageAway
+END CATCH
+GO
+-- delete carriage way
+create proc HTVP_DeleteCarriageWay
+@IdTuyen int
+AS
+BEGIN TRY
+  IF (SELECT
+      COUNT(1)
+    FROM TuyenXe
+    WHERE IdTuyen = @IdTuyen)
+    = 0
+  BEGIN
+   PRINT N'Lỗi Hệ thống'
+  END
+  ELSE
+  BEGIN
+   DELETE TuyenXe
+    WHERE IdTuyen = @IdTuyen
+    PRINT N'Xoá tuyến xe thành công'
   END
   BEGIN TRAN
   COMMIT
@@ -584,7 +670,7 @@ BEGIN TRY
     INSERT INTO VE
       VALUES (@GiaVeThuc, @TrangThaiThanhToan, @MaND, GETDATE(), @IdChoNgoi, @MaPTTT, @TenDangNhap, @MaTuyenXe)
     PRINT N'Thêm thành công vé xe'
-	RETURN 1
+    RETURN 1
   COMMIT
 END TRY
 BEGIN CATCH

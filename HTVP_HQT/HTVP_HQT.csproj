@@ -167,6 +167,7 @@
     <Compile Include="Helpers\SqlHeper.cs" />
     <Compile Include="Helpers\StringUtils.cs" />
     <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\NguoiDungModel.cs" />
     <Compile Include="Models\XeModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -4404,6 +4405,7 @@
     <Content Include="Areas\Admin\Views\web.config" />
     <Content Include="Areas\Admin\Views\_ViewStart.cshtml" />
     <Content Include="Areas\Admin\Views\Xe\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Account\Index.cshtml" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml">
       <SubType>Designer</SubType>
     </None>
